@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ankitnair01
 - 👀 I’m interested in Computers and doing fun activities.
-- 🌱 I’m currently in the final year of my Btech Computer Science Engineering.
-- 💞️ I’m looking to collaborate on projects and ideas for better usage to my knowledge.
-- 📫 How to reach me through my LinkedIn link is below my name.
+- 🌱 I’m in the final year of my Btech Computer Science Engineering.
+- 💞️ I want to collaborate on projects and ideas to use my knowledge better.
+- 📫 Reach me through my LinkedIn, link is below my name.
 - ⚡ Fun fact: The first computer programmer was Ada Lovelace in the 1800s.
 
 <!---
